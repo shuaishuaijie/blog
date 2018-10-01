@@ -7,5 +7,13 @@ body{
     color: yellow;
     height: 100px;
     width: 100px;
+
+}
+.conn{
+    height: 150px;
+    width: 560px;
+    font-family: 华文行楷;
+    font-size: 80px;
+    color: blueviolet;
     
 }
