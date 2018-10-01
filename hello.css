@@ -15,5 +15,13 @@ body{
     font-family: 华文行楷;
     font-size: 80px;
     color: blueviolet;
-    
+
+}
+
+.kuang{
+    box-shadow: yellow;
+    position: relative;
+    top: 80px;
+    left: 100px;
+    border: aqua 1px solid;
 }
