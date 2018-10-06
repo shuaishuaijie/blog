@@ -25,12 +25,9 @@ body{
     left: 100px;
     border: aqua 1px solid;
 }
-.zhang{
-	color: yellow;
+.wag{
 	width: 100px;
-	height: 100px;
-}
-.wang{
 	color: red;
-	width: 100px;
+	height: 999px;
 }
+
